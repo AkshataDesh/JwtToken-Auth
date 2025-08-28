@@ -53,6 +53,8 @@ namespace WebAPI_Demo.Services
 
         public string GenerateAndSaveRefereshToken(User u)
         {
+            int a=10;
+            var c=10+a;
             return "xyz";
         }
 

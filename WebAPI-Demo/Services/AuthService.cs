@@ -51,6 +51,11 @@ namespace WebAPI_Demo.Services
 
         }
 
+        public string GenerateAndSaveRefereshToken(User u)
+        {
+            return "";
+        }
+
         private string CreateToken(User user)
         {
             var claims = new List<Claim>

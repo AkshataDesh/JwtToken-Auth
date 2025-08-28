@@ -53,15 +53,8 @@ namespace WebAPI_Demo.Services
 
         public string GenerateAndSaveRefereshToken(User u)
         {
-<<<<<<< Updated upstream
-
             int a=10;
             var c=10+a;
-            var ac = "xyz";
-
-=======
-            var a = "xyz";
->>>>>>> Stashed changes
             return "xyz";
         }
 
